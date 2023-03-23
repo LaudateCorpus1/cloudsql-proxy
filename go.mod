@@ -8,7 +8,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/lib/pq v1.10.2
+	github.com/lib/pq v1.10.7
 	go.uber.org/zap v1.19.0
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
 	golang.org/x/oauth2 v0.0.0-20210810183815-faf39c7919d5
